@@ -37,4 +37,4 @@ Me interesa el área de desarrollo de software y actualmente continúo fortaleci
 
 Aplicación desarrollada en Python para la gestión de un salón de belleza, aplicando los principios de Programación Orientada a Objetos. Permitirá administrar clientes, empleados, servicios y citas.
 
-🔗 Repositorio del proyecto:
+🔗 Repositorio del proyecto: https://github.com/elviaRodriguez/Sistema-salon-belleza
